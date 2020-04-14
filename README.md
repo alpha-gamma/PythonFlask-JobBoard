@@ -2,7 +2,7 @@
 
 ## Verify Local Environment
 
-### Create Virtual Environment
+### Create Virtual Environment ##
 
 In a terminal run the following commands from the root folder of the forked project. 
 
